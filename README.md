@@ -20,7 +20,11 @@ CMD
 
 
 
-Дальше запустится командная строка и введите там это pyinstaller update.py --onefile   что бы скомпилировать файл update.exe он будет в папке dist  
+Дальше запустится командная строка и введите там это 
+```
+pyinstaller update.py --onefile
+```
+что бы скомпилировать файл update.exe он будет в папке dist  
 ![image](https://github.com/asidsx/CraftopiaCraftopiaRuLangUpdater/assets/106923482/cd750da7-a83b-4abb-9f47-ada48fedf7f5)
 
 Дальше сделайте как в инструкции вверху
