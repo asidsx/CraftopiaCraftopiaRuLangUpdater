@@ -19,7 +19,7 @@
 ```
 pip install requests pyinstaller
 ```
-Дальше скачайте файл update.py и положите в пустую папку, дальше введите в адресной строке проводника, где находится update.py 
+Дальше скачайте файл update.py и положите в пустую папку, дальше введите в адресной строке проводника, где находится update.py  
 ![image](https://github.com/asidsx/CraftopiaCraftopiaRuLangUpdater/assets/106923482/06d13d12-85eb-4147-b1bc-3cf1d0ead3e7)
 ```
 CMD
