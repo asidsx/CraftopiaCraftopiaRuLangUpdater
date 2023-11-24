@@ -1,6 +1,6 @@
 # CraftopiaCraftopiaRuLangUpdater
 ---
-Что бы использовать его, скачайте файл update.exe и положите его сюда
+Что бы использовать его, скачайте файл [update.exe](https://github.com/asidsx/CraftopiaCraftopiaRuLangUpdater/releases) и положите его сюда
 \steamapps\workshop\content\1307550\2704964982\plugins\lang в папку мода где лежат файлы перевода.
 И запустите его, он сам скачает актуальную версию и установит её, что бы можно было удобно им пользоваться создайте для него ярлык в любое удобное для вас место.
 
