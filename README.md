@@ -22,3 +22,6 @@ CMD
 
 Дальше запустится командная строка и введите там это pyinstaller update.py --onefile   что бы скомпилировать файл update.exe  
 Дальше сделайте как в инструкции вверху
+
+
+Программа скачивает актаульный перевод отсюда https://github.com/asidsx/AdditionalLanguagesForCraftopia
