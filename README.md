@@ -17,7 +17,7 @@
 Запустив командную строку CMD и выполните там это  
 
 ```
-pip install requests pyinstaller
+pip install wget pyinstaller
 ```
 Дальше скачайте файл update.py и положите в пустую папку, дальше введите в адресной строке проводника, где находится update.py  
 ![image](https://github.com/asidsx/CraftopiaCraftopiaRuLangUpdater/assets/106923482/06d13d12-85eb-4147-b1bc-3cf1d0ead3e7)
