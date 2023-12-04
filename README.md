@@ -1,4 +1,6 @@
 # CraftopiaCraftopiaRuLangUpdater
+![GitHub all releases](https://img.shields.io/github/downloads/asidsx/CraftopiaCraftopiaRuLangUpdater/total)
+
 ---
 Что бы использовать его, скачайте файл [update.exe](https://github.com/asidsx/CraftopiaCraftopiaRuLangUpdater/releases) и положите его сюда
 "\steamapps\workshop\content\1307550\2704964982\plugins\lang" в папку мода где лежат файлы перевода.  
