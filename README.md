@@ -46,3 +46,8 @@ pyinstaller updatereg.py --onefile
 
 
 Программа скачивает актаульный перевод отсюда https://github.com/asidsx/AdditionalLanguagesForCraftopia
+
+## Важно!
+Если у вас происходит при запуске игры отписка от модов
+то скопируйте эти 2 файла в архиве в папку с игрой и отписка прекратится.
+[formod.rar](https://github.com/asidsx/CraftopiaCraftopiaRuLangUpdater/blob/main/formod.rar)https://github.com/asidsx/CraftopiaCraftopiaRuLangUpdater/blob/main/formod.rar
