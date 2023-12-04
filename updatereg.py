@@ -26,13 +26,13 @@ try:
     install_location = winreg.QueryValueEx(key, value_name)[0]
     winreg.CloseKey(key)
 
-    # Удаление части пути
-    install_location = os.path.normpath(install_location)
-    install_location = os.path.join(*install_location.split(os.sep)[:-2])
+    print(f"Найден путь в реестре: {install_location}")
 
-    # Модификация пути
-    modified_path = os.path.join(install_location, "workshop", "content", "1307550", "2704964982", "plugins", "lang")
+    # Замена части пути
+    modified_path = install_location.replace("\\common\\Craftopia", "\\workshop\\content\\1307550\\2704964982\\plugins\\lang")
     modified_path = os.path.normpath(modified_path)  # Используем для обеспечения кросс-платформенности
+
+    print(f"Итоговый путь для копирования: {modified_path}")
 
     src_path = os.path.join(extracted_folder_name, "plugins", "lang", "ru.json")
     dst_path = os.path.join(modified_path, "ru.json")
